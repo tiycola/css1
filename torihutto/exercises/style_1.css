@@ -1,0 +1,23 @@
+ div.strange{
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 25px;
+        width: 360px;
+        margin: 0 auto;
+        padding: 20px;
+        border:  1px solid red;
+    }
+
+.strange h2{
+	font-weight: bold;
+}
+
+.strange ul li {
+	color:red;
+}
+
+.strange ul li ul li {
+	color:blue;
+}
+
+
+

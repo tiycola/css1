@@ -1,0 +1,15 @@
+ body{
+        text-align: center;
+    }
+
+.box{
+        background-color: yellow;
+        width: 100px;
+        display: inline-block
+        height: 100px;
+}
+
+.box-special {
+  background-color: pink;
+  
+}

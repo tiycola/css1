@@ -1,0 +1,19 @@
+A)li:lastchild {
+
+ }
+B) ol:li=firstchild {
+
+
+}
+
+C) ol:first-of-type li:firstchild {
+	
+}
+
+
+
+D) h3:first-of-type {
+
+
+} 
+
