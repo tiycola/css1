@@ -1,6 +1,5 @@
 
     /* style.css */
-
     body{
         text-align: center;
     }
@@ -10,8 +9,8 @@
         width: 100px;
         display: inline-block
         height: 100px;
- 	}
+    }
 
- 	.special{
- 		background-color: blue;
- 	}
+    #thirdBox {
+        background-color: gray;
+    }

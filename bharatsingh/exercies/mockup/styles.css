@@ -1,0 +1,28 @@
+
+    /* style.css */
+
+    body{
+        background: #eee;
+    }
+
+    div{
+        background: #eee;
+        width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 5px solid white;
+    }
+
+    h1{
+        /*code here*/
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 10px;
+    }
+
+    p{
+        /*code here*/
+        line-height: 2;
+        text-align: justify;
+    }
+

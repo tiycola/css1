@@ -1,59 +1,67 @@
-1. Which of these html is an acceptable hierarchy for a newspaper article?
+Which of the following is the term used to describe the hierarchy of importance based on written order in CSS?
 
-a) html > body > article > footer
+c) specificity
 
-2. In the example, which element is the child and which is the parent?
+Which of the following options lists the order of CSS precedence from least important to most important?
 
-a) Head is the parent, title is the child
+a) External stylesheet, Internal styles, Inline styles, !important
 
-3. Which is the correct list of responsibilities for HTML and CSS:
+Circle the two items that form a CSS declaration.
 
-b) HTML: data, CSS: presentation
+a) Property
 
-4. Which tag wraps text content into a paragraph?
+d) Value
 
-d) <p>
+Which two of the following properties affect the spacing between elements?
 
-5. Given the following image, which of the following HTML matches the design? Explain your reasoning.
+b) padding
 
-a)
+d) margin
 
-  <header>
-    <nav></nav>
-    <h1></h1>
-    <h5></h5>
-  </header>
-  <section>
-    <article>
-      <img>
-      <ul></ul>
-      <h2></h2>
-    </article>
-  </section>
+Which characters surround a declaration block?
 
-6. What is the purpose of the alt attribute?
+c) {}
 
-c) Provide a description of the image for screen readers and search engines
+Property / Value pairs are separated using which character?
 
-7. What will a browser do if HTML is invalid?
+d) :
 
-c) Do the best it can, but the page might not look the way it is intended
+Which value can be applied to the width property?
 
-8. What is the definition of a void tag:
+a) 100px
 
-b) A void tag has no content
+b) 100%
 
-9. Which of the following is the correct syntax to apply multiple classes to an element?
+c) auto
 
-b) <div class="large important sparkly"></div>
+d) inherit
 
-10. In the following HTML, what is the article's relationship to the aside?
+e) All of the above <--
 
-b) sibling
+Which property affects the vertical spacing between lines of text?
 
-Exercises
+b) line-height
 
-1.
+Which property affects the horizontal spacing between font glyphs?
 
-The above HTML wouldn’t be syntactically correct because the <body> tag is inside of the <head> tag. Usually the <head> tag just contains data about the page (which won’t display in the browser) and goes in between the <html> and <body> tags. The <body> tag is suppose to exist outside of the <head> tag as a sibling, not a child, with <html> being the parent tag. 
-‘Will I be seen?’ will show in the browser because it’s placed inside of the <body> tag, which makes up the contents of an HTML file.
+a) letter-spacing
+
+Which two properties are required to render a bold italic font?
+
+e) font-weight
+
+Which of the following fonts is considered web safe, you may select more than one choice:
+
+a) Arial
+
+c) Courier
+
+g) Helvetica
+
+i) "Lucida Grande"
+
+k) Palatino
+
+n) Times
+
+p) Verdana

@@ -1,0 +1,19 @@
+/*Exercise 4 CSS HW1*/
+
+/*a.*/
+div[ class^="el-"] {}
+
+/*b.*/
+element[ class*="atr"] {}
+
+/*c.*/
+label[ for=something] {}
+
+/*d.*/
+element[ id$="special"] {}
+
+/*e.*/
+element[ lang|"en"] {}
+
+/*f.*/
+[button=""]{}

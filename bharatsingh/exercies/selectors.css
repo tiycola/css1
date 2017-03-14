@@ -1,0 +1,13 @@
+/*-----Exercise 2 CSS HW1-----*/
+
+/*a.*/
+ol:last-of-type li:last-child {}
+
+/*b.*/
+li:first-child {}
+
+/*c.*/
+section ol:first-of-type li:first-child {}
+
+/*d.*/
+h3:first-of-type {

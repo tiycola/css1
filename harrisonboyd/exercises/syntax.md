@@ -1,1 +1,0 @@
-The code is would not be valid syntax because the body is located in the head. I do no think it would appear in the webpage itself because the head is not displayed on the browser.
