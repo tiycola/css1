@@ -1,19 +1,21 @@
-1. c) html > body > section > article > p
+1. b) precedence
 
-2. a) Head is the parent, title is the child
+2. a) External stylesheet, Internal styles, Inline styles, !important
 
-3. b) HTML: data, CSS: presentation
+3. a) Property, d) Value
 
-4. d) <p>
+4. b) padding, d) margin
 
-5. a)
+5. c) {}
 
-6. c) Provide a description of the image for screen readers and search engines
+6. d) :
 
-7. c) Do the best it can, but the page might not look the way it is intended
+7. e) All of the above
 
-8. b) A void tag has no content
+8. b) line-height
 
-9. b) <div class="large important sparkly"></div>
+9. a) letter-spacing
 
-10. b) sibling
+10. c) font-style, e) font-weight
+
+11. a) Arial, c) Courier, g) Helvetica, n) Times

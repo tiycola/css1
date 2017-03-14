@@ -1,0 +1,33 @@
+
+    /* style.css */
+    html{
+        background-color: black;
+    }
+    body{
+        margin: 10px 10px;
+        background-color: white;
+        width: 550px;
+        height: 285px;
+        padding: 10px 0px 0px 0px;
+        position: absolute;
+        top: 25%;
+        left: 25%;
+    }
+    div{
+        background: #d3d3d3;
+        width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1{
+       text-transform: uppercase;
+       font-weight: 1000;
+       letter-spacing: 5px;
+       text-align: center;
+    }
+
+    p{
+
+    }
+

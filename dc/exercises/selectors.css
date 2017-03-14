@@ -1,0 +1,23 @@
+#secondList li:last-child {
+	color: red;
+}
+
+ol:first-child {
+	color: green;
+}
+
+#firstList:first-child {
+	color: purple;
+}
+
+#secondList:nth-child(6) {
+	color: red;
+}
+
+section:first-child {
+	color: orange;
+}
+
+section h3:first-child {
+	color: orange;
+}

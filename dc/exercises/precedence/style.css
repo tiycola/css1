@@ -1,0 +1,17 @@
+
+    body{
+        text-align: center;
+    }
+
+    .box{
+        background-color: yellow;
+        width: 250px;
+        display: inline-block;
+        height: 250px;
+    }
+    .box.special{
+        background: radial-gradient(circle, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green, blue, purple, red, orange, yellow, green);
+        display: block;
+        height: 500px;
+        width: 500px;
+    }

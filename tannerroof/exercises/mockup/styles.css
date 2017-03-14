@@ -1,0 +1,16 @@
+div{
+    background: #eee;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+letter-spacing: 12px;
+text-transform: uppercase;
+text-align: center;
+}
+
+p{
+line-height: 40px;
+}
